@@ -1,6 +1,6 @@
 # Power-BI-Dashboard-for-Hospitality-Revenue-Insights
 
-Overview<br>
+Overview :<br>
 Welcome to the GitHub repository for a powerful Power BI dashboard tailored to provide comprehensive insights to the revenue team in the hospitality domain. This project harnesses the capabilities of Power BI and the robust functionality of Data Analysis Expressions (DAX) to deliver dynamic and actionable data visualizations.<br>
 
 Key Metrics<br>
